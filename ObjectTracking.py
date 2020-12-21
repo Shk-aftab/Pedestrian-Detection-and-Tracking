@@ -1,5 +1,5 @@
 # run the following code in the terminal ->
-# python main.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/example_01.mp4 --output output/output.avi
+# python ObjectTracking.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/test.mp4 --output output/output.avi
 
 
 # lets import required packages
